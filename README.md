@@ -25,7 +25,7 @@ It helps in improving programming skills, problem-solving abilities, database ha
 
 ## 📌 Task 2 – BMI Calculator
 
-The **BMI Calculator** is a graphical application developed using **Python and Tkinter**.
+The **BMI Calculator** is a GUI-based application developed using **Python and Tkinter**.
 
 The application allows the user to enter their name, weight, and height. It calculates the Body Mass Index (BMI), displays the BMI category, and allows the user to save and view previous records.
 
